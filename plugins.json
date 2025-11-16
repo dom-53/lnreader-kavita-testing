@@ -1,0 +1,11 @@
+[
+{
+		"id": "kavita-api",
+		"name": "Kavita",
+		"site": "url",
+		"lang": "Multi",
+		"version": "0.0.2",
+		"url": "http://192.168.50.168:3000/.js/src/plugins/multi/kavita.js",
+		"iconUrl": "http://192.168.50.168:3000/public/static/src/multi/kavita/icon.png"
+	}
+]
