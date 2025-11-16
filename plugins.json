@@ -5,7 +5,7 @@
 		"site": "url",
 		"lang": "Multi",
 		"version": "0.0.2",
-		"url": "http://192.168.50.168:3000/.js/src/plugins/multi/kavita.js",
-		"iconUrl": "http://192.168.50.168:3000/public/static/src/multi/kavita/icon.png"
+		"url": "https://raw.githubusercontent.com/dom-53/lnreader-kavita-testing/refs/heads/main/kavita.js",
+		"iconUrl": "https://raw.githubusercontent.com/dom-53/lnreader-kavita-testing/refs/heads/main/icon.png"
 	}
 ]
