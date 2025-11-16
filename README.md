@@ -16,3 +16,9 @@ https://raw.githubusercontent.com/dom-53/lnreader-kavita-testing/refs/heads/main
 2. In Browse settings, make sure to enable the language  `multi`, otherwise the Kavita plugin will not appear.
 
 Feel free to report bugs or request features in the main repo.
+
+# ⚠️ Disclaimer ⚠️
+
+This is a testing repository. It’s recommended to back up your LNReader data before using it, just to be safe. You never know.
+
+Feel free to report bugs or request features in the main repo.
