@@ -25,10 +25,10 @@ Feel free to report bugs or request features in the main repo.
 
 # Changelog
 
-## v0.0.7
+## v0.0.7 - 2025-11-19
 
 - Fixed title search to correctly respect plugin format settings during queries
 
-## v0.0.5
+## v0.0.5 - 2025-11-19
 
 - Fix duplicate results when searching novels by name
