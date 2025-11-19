@@ -25,7 +25,7 @@ Feel free to report bugs or request features in the main repo.
 
 # Changelog
 
-## v0.0.6
+## v0.0.7
 
 - Fixed title search to correctly respect plugin format settings during queries
 
