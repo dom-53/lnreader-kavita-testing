@@ -22,3 +22,13 @@ Feel free to report bugs or request features in the main repo.
 This is a testing repository. It’s recommended to back up your LNReader data before using it, just to be safe. You never know.
 
 Feel free to report bugs or request features in the main repo.
+
+# Changelog
+
+## v0.0.6
+
+- Fixed title search to correctly respect plugin format settings during queries
+
+## v0.0.5
+
+- Fix duplicate results when searching novels by name
