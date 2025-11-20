@@ -25,6 +25,15 @@ Feel free to report bugs or request features in the main repo.
 
 # Changelog
 
+## v0.0.8 - 2025-11-20
+
+- Added support for loading and applying Kavita’s preset filters (decoded and sent as-is, bypassing manual inputs).
+- Introduced sortable results with selectable sort field and direction.
+- Added a limit filter to cap returned items (0 leaves results unbounded).
+- Added a three-state “Want to read” filter (any / must be marked / must not be marked).
+- Added include/exclude filtering by collections (CollectionTags)
+- Reordered filter UI for clearer flow
+
 ## v0.0.7 - 2025-11-19
 
 - Fixed title search to correctly respect plugin format settings during queries
